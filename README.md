@@ -76,12 +76,12 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 
 ## 📂 Repositórios da Organização  
 
-🔹 **2. [02.Exemplos](https://github.com/GQS-2025-2/02.Exemplos)**  
+🔹 **2. [02.Exemplos](https://github.com/GQS-2026-1/01.-Exemplos)**  
 📌 Apresenta exemplos práticos e códigos ilustrando os conceitos abordados.  
 
 ---
 
-🔹 **3. [03.Exercicios](https://github.com/GQS-2025-2/03.Exercicios)**  
+🔹 **3. [03.Exercicios](https://github.com/GQS-2026-1/02.-Exercicios)**  
 📌 Contém listas de exercícios organizadas por tema, com desafios para reforçar os conceitos estudados e as resoluções.  
 
 ---
